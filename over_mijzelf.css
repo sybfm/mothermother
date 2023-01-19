@@ -1,0 +1,77 @@
+*{
+  margin: 0 auto;
+}
+
+body {
+  background-color: #000000;
+  font-family: tahoma;
+  color: #ffffff;
+  font-size: 14pt;
+}
+header {
+    background-color: #7f0202;
+    font-family: tahoma;
+    width: 1000px;
+    height: 55px;
+    font-size: 20pt;
+    color: #000000;
+    margin: 0px 0px 20px 0px;
+    text-align: center;
+  }
+
+  .main1 {
+    width: 1000px;
+    height: 0;
+  }
+
+nav {
+    background-color: #ae0606;
+    font-family: tahoma;
+    width: 1000px;
+    height: 50px;
+    font-size: 18pt;
+    color: #000000;
+    margin: 0px 0px 20px 0px;
+    text-align: center;
+  }
+
+.FotoLijst3 {
+  width: 450px;
+  height: 277px;
+  float: left;
+  margin: 0 auto;
+}
+.algemeen1 {
+  background-color: #b72e1d;
+  width: 450px;
+  height: 277px;
+  color: #000000;
+  float: right;
+
+}
+
+.fotolijst2 {
+  width: 1000px;
+  height:400px;
+  color: #000000;
+  margin-top: 20px;
+  margin-bottom: 300px;
+}
+
+.algemeen2 {
+  background-color: #b72e1d;
+  width: 1000px;
+  height: 50px;
+  color: #000000;
+  margin-top: 20px;
+}
+
+a {
+color: #000000;
+text-decoration: none;
+  }
+
+a:hover {
+  color: #ffffff;
+  text-decoration: none;
+}

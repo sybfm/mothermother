@@ -1,0 +1,153 @@
+* {
+  margin: 0 auto;
+}
+
+body {
+  background-color: #000000;
+  font-family: tahoma;
+  color: #ffffff;
+  font-size: 11pt;
+}
+header {
+    background-color: #7f0202;
+    font-family: tahoma;
+    width: 1000px;
+    height: 55px;
+    font-size: 20pt;
+    color: #000000;
+    margin-bottom: 10px;
+    margin: 0px 0px 20px 0px;
+    text-align: center;
+    margin: 0 auto;
+  }
+  .main {
+    width: 1000px;
+    height: 0;
+  }
+
+  nav {
+      background-color: #ae0606;
+      font-family: tahoma;
+      width: 1000px;
+      height: 40px;
+      font-size: 16pt;
+      color: #000000;
+      text-align: center;
+      margin-top: 20px;
+    }
+
+.FotoLijst {
+  width: 1000px;
+  height: 333px;
+  margin-top: 20px;
+
+}
+.afbeelding1 {
+ width: 200px;
+ height: 500px;
+}
+
+.FotoLijst3 {
+  width: 450px;
+  height: 277px;
+  float: left;
+  margin: 0 auto;
+}
+.algemeen1 {
+  background-color: #b72e1d;
+  width: 450px;
+  height: 277px;
+  color: #000000;
+  float: right;
+  font-size: 15pt;
+  margin: 0 auto;
+
+}
+
+.fotolijst2 {
+  width: 1000px;
+  height:648px;
+  color: #000000;
+  padding-top: 20px;
+}
+
+.algemeen2 {
+  background-color: #b72e1d;
+  width: 1000px;
+  height: 50px;
+  color: #000000;
+}
+
+.algemeen3 {
+  background-color: #b72e1d;
+  width: 1000px;
+  height: 150px;
+  color: #000000;
+  margin-top: 20px;
+}
+
+.Fotolijst4 {
+  width: 500px;
+  height: 260px;
+  float: left;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.algemeen4 {
+  background-color: #b72e1d;
+  width: 500px;
+  height: 260px;
+  float: right;
+  font-size: 16pt;
+  color: #000000;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.Fotolijst5 {
+  width: 440px;
+  height: 220px;
+  float: right;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.algemeen5 {
+  background-color: #b72e1d;
+  width: 500px;
+  height: 220px;
+  float: left;
+  color: #000000;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.Fotolijst6 {
+  width: 1000px;
+  height: 350px;
+  float: right;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.algemeen6 {
+  background-color: #b72e1d;
+  width: 1000px;
+  height: 30px;
+  float: left;
+  color: #000000;
+  margin: 0 auto;
+  margin-top: 20px;
+  text-align: center;
+}
+
+a {
+color: #000000;
+text-decoration: none;
+}
+
+a:hover {
+  color: #ffffff;
+  text-decoration: none;
+}
